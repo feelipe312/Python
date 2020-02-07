@@ -1,1 +1,2 @@
-print("ola mundo")
+nome = "Felipe"
+print("ola" + nome)
